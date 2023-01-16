@@ -10,7 +10,7 @@
     <TimesToRun>1</TimesToRun>
   </TestInformation>
   <TestProfile>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
     <SupportedPlatforms>Linux, MacOSX</SupportedPlatforms>
     <SoftwareType>Benchmark</SoftwareType>
     <TestType>Processor</TestType>
@@ -22,9 +22,4 @@
     <RepositoryURL>https://github.com/dic-case-studies/abs-case-study/tree/main</RepositoryURL>
     <Maintainer>M Nimalan, Maneesh, Manikantha, Ravinder</Maintainer>
   </TestProfile>
-  <TestSettings>
-    <Option>
-      <DisplayName>ABS Case Study - CPU Test</DisplayName>
-    </Option>
-  </TestSettings>
 </PhoronixTestSuite>
