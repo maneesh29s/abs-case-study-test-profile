@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v10.8.4-->
+<PhoronixTestSuite>
+  <Downloads>
+    <Package>
+      <URL>https://codeload.github.com/dic-case-studies/abs-case-study/tar.gz/refs/tags/v1.0.1</URL>
+      <MD5>a84a6b296c2e4429b13d9c2b004137d7</MD5>
+      <SHA256>c4102977f5892d5a070dd21dbf6077c6d125cb71274f622e2d9f0210fe06d6bd</SHA256>
+      <FileName>abs-case-study.tar.gz</FileName>
+      <PlatformSpecific>Linux,MacOSX</PlatformSpecific>
+      <ArchitectureSpecific>x86_64,aarch64</ArchitectureSpecific>
+      <Optional>TRUE</Optional>
+    </Package>
+    <Package>
+      <URL>https://codeload.github.com/dic-case-studies/abs-case-study/zip/refs/tags/v1.0.1</URL>
+      <MD5>f7d5e26ba728e750df423bf33bc40a8a</MD5>
+      <SHA256>38d62e4afa322eb6eee88e55192594fcd0516c71c787569bb4b942cd93e8a5f8</SHA256>
+      <FileName>abs-case-study.zip</FileName>
+      <PlatformSpecific>Windows</PlatformSpecific>
+      <ArchitectureSpecific>x86_64</ArchitectureSpecific>
+      <Optional>TRUE</Optional>
+    </Package>
+  </Downloads>
+</PhoronixTestSuite>

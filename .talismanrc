@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: downloads.xml
+  checksum: 2c183b7404512d960b77ae41917e828486df01d4f8a6ac7b3d4b1d1914ee58ae
+version: "1.0"

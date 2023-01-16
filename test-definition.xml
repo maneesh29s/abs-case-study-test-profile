@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v10.8.4-->
+<PhoronixTestSuite>
+  <TestInformation>
+    <Title>ABS Energy Benchmarks</Title>
+    <AppVersion>v1.0.1</AppVersion>
+    <Description>This will measure energy consumption and time consumption of calculating absolute value of elements present in an array</Description>
+    <Proportion>LIB</Proportion>
+    <SubTitle>This will test the CPU performance of a machine</SubTitle>
+    <TimesToRun>1</TimesToRun>
+  </TestInformation>
+  <TestProfile>
+    <Version>v1.0.3</Version>
+    <SupportedPlatforms>Linux, MacOSX</SupportedPlatforms>
+    <SoftwareType>Benchmark</SoftwareType>
+    <TestType>Processor</TestType>
+    <License>Free</License>
+    <Status>Unverified</Status>
+    <SupportedArchitectures>x86_64, aarch64</SupportedArchitectures>
+    <EnvironmentSize>0</EnvironmentSize>
+    <ProjectURL>https://github.com/dic-case-studies/abs-case-study/blob/main/README.md</ProjectURL>
+    <RepositoryURL>https://github.com/dic-case-studies/abs-case-study/tree/main</RepositoryURL>
+    <Maintainer>M Nimalan, Maneesh, Manikantha, Ravinder</Maintainer>
+  </TestProfile>
+  <TestSettings>
+    <Option>
+      <DisplayName>ABS Case Study - CPU Test</DisplayName>
+    </Option>
+  </TestSettings>
+</PhoronixTestSuite>
